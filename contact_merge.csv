@@ -1,0 +1,54 @@
+,created_id,contact_fk_x,client_fk,trigger,created_at,contact_fk_y,unique_id,client_name,phone_number,email,designation,persona_type
+0,714,0,2515,False,2024-11-07 16:14:09.289765,0,5C2208,Paalana Institute of Medical Sciences,,paalanact@gmail.com,,
+1,714,0,2515,False,2024-11-07 16:14:09.289765,9596,5C2208,Paalana Institute of Medical Sciences,4912511904,paalanact@gmail.com,{TECHNICIAN},null
+2,714,0,2515,False,2024-11-07 16:14:09.289765,9554,5C2208,Paalana Institute of Medical Sciences,8921173186,ashib333@gmail.com,{TECHNICIAN},null
+3,714,0,2515,False,2024-11-07 16:14:09.289765,8162,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+4,714,0,2515,False,2024-11-07 16:14:09.289765,13547,5C2208,Paalana Institute of Medical Sciences,9947978995,,null,null
+5,714,0,2515,False,2024-11-07 16:14:09.289765,3292,5C2208,Paalana Institute of Medical Sciences,,,DIRECTOR,null
+6,714,0,2515,False,2024-11-07 16:14:09.289765,7401,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+7,714,0,2515,False,2024-11-07 16:14:09.289765,5858,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+8,715,9596,2515,False,2024-11-07 16:14:09.289765,0,5C2208,Paalana Institute of Medical Sciences,,paalanact@gmail.com,,
+9,715,9596,2515,False,2024-11-07 16:14:09.289765,9596,5C2208,Paalana Institute of Medical Sciences,4912511904,paalanact@gmail.com,{TECHNICIAN},null
+10,715,9596,2515,False,2024-11-07 16:14:09.289765,9554,5C2208,Paalana Institute of Medical Sciences,8921173186,ashib333@gmail.com,{TECHNICIAN},null
+11,715,9596,2515,False,2024-11-07 16:14:09.289765,8162,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+12,715,9596,2515,False,2024-11-07 16:14:09.289765,13547,5C2208,Paalana Institute of Medical Sciences,9947978995,,null,null
+13,715,9596,2515,False,2024-11-07 16:14:09.289765,3292,5C2208,Paalana Institute of Medical Sciences,,,DIRECTOR,null
+14,715,9596,2515,False,2024-11-07 16:14:09.289765,7401,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+15,715,9596,2515,False,2024-11-07 16:14:09.289765,5858,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+16,716,9554,2515,False,2024-11-07 16:14:09.289765,0,5C2208,Paalana Institute of Medical Sciences,,paalanact@gmail.com,,
+17,716,9554,2515,False,2024-11-07 16:14:09.289765,9596,5C2208,Paalana Institute of Medical Sciences,4912511904,paalanact@gmail.com,{TECHNICIAN},null
+18,716,9554,2515,False,2024-11-07 16:14:09.289765,9554,5C2208,Paalana Institute of Medical Sciences,8921173186,ashib333@gmail.com,{TECHNICIAN},null
+19,716,9554,2515,False,2024-11-07 16:14:09.289765,8162,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+20,716,9554,2515,False,2024-11-07 16:14:09.289765,13547,5C2208,Paalana Institute of Medical Sciences,9947978995,,null,null
+21,716,9554,2515,False,2024-11-07 16:14:09.289765,3292,5C2208,Paalana Institute of Medical Sciences,,,DIRECTOR,null
+22,716,9554,2515,False,2024-11-07 16:14:09.289765,7401,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+23,716,9554,2515,False,2024-11-07 16:14:09.289765,5858,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+24,717,13547,2515,False,2024-11-07 16:14:09.289765,0,5C2208,Paalana Institute of Medical Sciences,,paalanact@gmail.com,,
+25,717,13547,2515,False,2024-11-07 16:14:09.289765,9596,5C2208,Paalana Institute of Medical Sciences,4912511904,paalanact@gmail.com,{TECHNICIAN},null
+26,717,13547,2515,False,2024-11-07 16:14:09.289765,9554,5C2208,Paalana Institute of Medical Sciences,8921173186,ashib333@gmail.com,{TECHNICIAN},null
+27,717,13547,2515,False,2024-11-07 16:14:09.289765,8162,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+28,717,13547,2515,False,2024-11-07 16:14:09.289765,13547,5C2208,Paalana Institute of Medical Sciences,9947978995,,null,null
+29,717,13547,2515,False,2024-11-07 16:14:09.289765,3292,5C2208,Paalana Institute of Medical Sciences,,,DIRECTOR,null
+30,717,13547,2515,False,2024-11-07 16:14:09.289765,7401,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+31,717,13547,2515,False,2024-11-07 16:14:09.289765,5858,5C2208,Paalana Institute of Medical Sciences,,,TECHNICIAN,null
+32,718,9084,2839,False,2024-11-07 16:14:09.289765,0,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,eskagsanjeevanibaranagar@gmail.com,,
+33,718,9084,2839,False,2024-11-07 16:14:09.289765,2613,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,DIRECTOR,null
+34,718,9084,2839,False,2024-11-07 16:14:09.289765,9084,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,9748789638,boby.roy89@gmail.com,{TECHNICIAN},null
+35,718,9084,2839,False,2024-11-07 16:14:09.289765,9092,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,7908093288,vivekpalui123@gmail.com,{TECHNICIAN},null
+36,718,9084,2839,False,2024-11-07 16:14:09.289765,6963,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null
+37,718,9084,2839,False,2024-11-07 16:14:09.289765,9090,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,8637036922,subhajitmanna602@gmail.com,{TECHNICIAN},null
+38,718,9084,2839,False,2024-11-07 16:14:09.289765,5104,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null
+39,719,9092,2839,False,2024-11-07 16:14:09.289765,0,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,eskagsanjeevanibaranagar@gmail.com,,
+40,719,9092,2839,False,2024-11-07 16:14:09.289765,2613,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,DIRECTOR,null
+41,719,9092,2839,False,2024-11-07 16:14:09.289765,9084,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,9748789638,boby.roy89@gmail.com,{TECHNICIAN},null
+42,719,9092,2839,False,2024-11-07 16:14:09.289765,9092,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,7908093288,vivekpalui123@gmail.com,{TECHNICIAN},null
+43,719,9092,2839,False,2024-11-07 16:14:09.289765,6963,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null
+44,719,9092,2839,False,2024-11-07 16:14:09.289765,9090,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,8637036922,subhajitmanna602@gmail.com,{TECHNICIAN},null
+45,719,9092,2839,False,2024-11-07 16:14:09.289765,5104,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null
+46,720,9090,2839,False,2024-11-07 16:14:09.289765,0,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,eskagsanjeevanibaranagar@gmail.com,,
+47,720,9090,2839,False,2024-11-07 16:14:09.289765,2613,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,DIRECTOR,null
+48,720,9090,2839,False,2024-11-07 16:14:09.289765,9084,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,9748789638,boby.roy89@gmail.com,{TECHNICIAN},null
+49,720,9090,2839,False,2024-11-07 16:14:09.289765,9092,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,7908093288,vivekpalui123@gmail.com,{TECHNICIAN},null
+50,720,9090,2839,False,2024-11-07 16:14:09.289765,6963,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null
+51,720,9090,2839,False,2024-11-07 16:14:09.289765,9090,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,8637036922,subhajitmanna602@gmail.com,{TECHNICIAN},null
+52,720,9090,2839,False,2024-11-07 16:14:09.289765,5104,5C2497,Eskag Sanjeevani Multispecialty Hospital - Baranagar,,,TECHNICIAN,null

@@ -1,0 +1,12 @@
+client_fk,churn_type,active_days,avg_case_load,client_active_type,contact_fk,unique_id,Client_Name,phone_number,email,Last_30_XRAY_Count,Last_30_Within_TAT_XRAY,Last_30_XRAY_Rework,Last_30_CT_Count,Last_30_Within_TAT_CT,Last_30_CT_Rework,Last_30_MRI_Count,Last_30_Within_TAT_MRI,Last_30_MRI_Rework,Last_30_NM_Count,Last_30_Within_TAT_NM,Last_30_NM_Rework
+2459,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,0,5C2157,Agarwal Nursing Home,,anhbasna@gmail.com,0,0,0,151,2,0,0,0,0,0,0,0
+2459,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,13906,5C2157,Agarwal Nursing Home,9131344252,,0,0,0,151,2,0,0,0,0,0,0,0
+2459,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,15570,5C2157,Agarwal Nursing Home,7000866596,,0,0,0,151,2,0,0,0,0,0,0,0
+2459,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,10824,5C2157,Agarwal Nursing Home,9893153699,,0,0,0,151,2,0,0,0,0,0,0,0
+2459,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,15975,5C2157,Agarwal Nursing Home,7052751557,akhilsinghsrk7@gmail.com,0,0,0,151,2,0,0,0,0,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,0,5C3325,SGD Diagnostics Center Pvt. Ltd. ,,sgdctmri@gmail.com,55,0,1,141,0,1,141,0,2,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,15391,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7827296993,henanaz@rediffmail.com,55,0,1,141,0,1,141,0,2,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,14670,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7983532214,sgdctmri@gmail.com,55,0,1,141,0,1,141,0,2,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,15390,5C3325,SGD Diagnostics Center Pvt. Ltd. ,9430417536,info@sgddiagnostic.com,55,0,1,141,0,1,141,0,2,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,15486,5C3325,SGD Diagnostics Center Pvt. Ltd. ,9354559609,,55,0,1,141,0,1,141,0,2,0,0,0
+3707,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,15389,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7983532214,goluthakur7665@gmail.com,55,0,1,141,0,1,141,0,2,0,0,0

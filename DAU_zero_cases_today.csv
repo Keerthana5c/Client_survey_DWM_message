@@ -1,0 +1,508 @@
+,client_fk,active_days,avg_case_load,client_name
+0,1,30,7.433333333333334,Mediscan Diagnostic Centre - Gondia
+224,9,28,3.0357142857142856,Amruth Diagnostic Centre
+431,12,28,4.535714285714286,Mahadev Multispeciality Hospital
+650,15,18,2.2777777777777777,Madhubani Medical College & Hospital
+844,21,30,8.433333333333334,Gayatri CT Scan Centre
+1069,25,30,3.3666666666666667,Siddhartha Hospital
+1329,29,30,15.2,Archana Trauma & Orthopaedics Hospital & Research Centre
+1554,31,8,4.375,Alam Hospital & Research Centre Pvt. Ltd.
+1750,32,30,7.866666666666666,Vipraa Diagnostics
+1974,39,30,17.2,HM Hospital - Dibrugarh
+2199,47,19,5.2631578947368425,Gopala Gowda Shanthaveri Memorial Hospital
+2391,50,27,22.814814814814813,Impulse Diagnostics
+2690,74,30,10.533333333333333,Santosh Diagnostic & Scan Centre - RT Nagar
+3008,100,30,9.233333333333333,Sakshi Diagnostics
+3225,103,23,2.608695652173913,HealthMap Diagnostic Pvt. Ltd. - Yeshwantpur
+3430,106,16,4.4375,Focus Diagnostics Center - Rajajinagar
+3629,124,21,2.0952380952380953,Rohini Dynamic MRI Scan Centre Pvt. Ltd.
+3755,167,30,12.866666666666667,Image Diagnostics
+3980,168,22,2.772727272727273,Dr. G. Viswanathan Hospital - Trichy
+4111,191,2,14.5,Aditya Diagnostics and Hospitals - Dibrugarh
+4129,192,2,12.5,Manya Imaging and Diagnostic Point
+4229,209,7,4.142857142857143,Dr. Vhanmane Wellcare
+4308,212,12,14.416666666666666,Hope Scan Centre - UP
+4444,218,30,10.566666666666666,Jogomaya Polyclinic
+4673,242,30,12.4,Escent Diagnostics Pvt. Ltd.
+4896,249,29,5.655172413793103,Holycross Hospital
+5066,250,30,4.966666666666667,RDJM Medical College And Hospital
+5522,256,29,8.96551724137931,Maxx CT Scan Centre
+5880,280,25,3.8,Dr. Harihar Roy Clinic
+6073,284,26,2.3076923076923075,Tara Star Diagnostic
+6249,293,24,14.958333333333334,Super Care Hospital
+6432,298,19,2.1578947368421053,Mysore Diagnostic Centre
+6776,315,4,19.5,Ebisu Diagnostic Centre
+6921,327,19,2.736842105263158,HTS Digital X-ray
+7205,340,30,7.9,South City Hospital - Silchar
+7430,341,29,4.448275862068965,New Kamareddy CT Scan Centre
+7642,349,30,19.933333333333334,Santosh Hospital
+7867,350,20,13.9,Sehgal Neo Hospital
+8032,351,28,2.0714285714285716,Gohpur X-ray Clinic
+8275,354,9,5.666666666666667,Balaji Healthcare - West Tripura
+8613,362,24,2.5833333333333335,Pratham Hospital
+8751,363,30,21.666666666666668,Calcutta Heart Research Centre - Howrah
+9098,367,17,2.235294117647059,Sadhbav CT Scan
+9467,378,29,12.206896551724139,Shree Diagnostic Centre - Gwalior
+9779,381,26,3.076923076923077,Yashoda Diagnostic Centre
+9987,382,29,7.931034482758621,Malvi Hospital
+10223,391,30,19.333333333333332,Kalimpong Hospital
+10447,393,30,10.2,Dr. Muthus Super Speciality Hospital
+10672,399,9,2.4444444444444446,Yenepoya Specialty Hospital
+10775,403,29,7.655172413793103,Ambujanagar Multispeciality Hospital
+10995,406,30,8.633333333333333,Janapriya CT MRI Scan Centre
+11238,411,28,8.785714285714286,Zion Hospitals
+11450,415,27,3.7037037037037037,Medicos Diagnostic & Imaging Centre
+11650,416,26,5.653846153846154,Santevita Hospital
+12061,442,6,5.666666666666667,Malnad Hitech Diagnostic Centre
+12157,452,24,2.5416666666666665,Pavan Digital X-ray
+12323,458,29,4.862068965517241,Human Clinical Laboratory
+12541,468,30,18.133333333333333,Anupam Diagnostics Centre
+12776,477,1,5.0,Krsnaa Diagnostic Centre
+12804,487,7,4.571428571428571,Mahi Diagnostics
+12968,496,29,2.8620689655172415,Constant Lievens Hospital
+13144,497,21,2.4285714285714284,Amrit Health Care
+13396,520,19,2.4210526315789473,Advance Diagnostic Center - MP
+13808,529,7,4.142857142857143,Lenjem Hospital
+14001,530,30,5.966666666666667,Chennai National Hospital
+14226,532,28,2.5357142857142856,Vardhman CT Scan Center
+14378,543,23,2.652173913043478,Jain Digital X-ray
+14615,559,28,8.392857142857142,Shakuntala Grameen Hospital
+14832,561,27,4.296296296296297,Nagalikar Diagnostic Scanning Center
+15038,566,30,3.4,Bharath Hospital
+15344,581,16,2.25,RR Diagnostics
+15476,582,29,10.172413793103448,Bharat scans - Tirunelvali
+15700,594,5,7.8,Jeeyo PET CT & Nuclear Imaging Center
+15860,607,28,5.464285714285714,VHS Multi Specialty Hospital & Research Institute
+16065,618,19,2.210526315789474,Lotus Diagnostic - AS
+16203,631,24,21.375,Gastrocare Liver & Digestive Disease Center
+16393,645,14,4.357142857142857,Sayali Children Hospital
+16509,648,25,7.4,Health Point Clinic - U2
+16707,651,19,3.736842105263158,Tapaasana Rotary Basaveshwaranagar Diagnostic Centre
+16873,655,29,2.2413793103448274,Sahasra Hospital
+17074,656,30,14.6,Eskag sanjeevani ESI (Joka)
+17321,670,29,3.2758620689655173,Sunrise Hospital
+17506,691,30,28.666666666666668,Aditi Hospital
+17731,697,5,5.2,Saral Diagnostic Center - Bhopal
+17775,722,29,5.413793103448276,Srinivasa Pinnacle Hospital
+17993,725,1,5.0,Unity Scan - Hassan
+18304,728,30,5.666666666666667,Shakuntala Memorial Hospital & Research Center
+18527,733,26,4.8076923076923075,Narmada Hospital - Hoshangabad
+18745,735,29,3.4827586206896552,Egra X-ray Clinic
+19095,738,27,5.555555555555555,"Silvercity MRI, CT Scan Center"
+19299,746,29,4.172413793103448,Medray Diagnostics Center - Indiranagar
+19508,751,18,2.3333333333333335,Aditya Criticare Pvt. Ltd.
+19672,757,19,5.526315789473684,Utkarsh Scan Centre
+19960,768,26,8.23076923076923,Health Point Clinic - U1 - Sodepur
+20150,771,24,4.25,Kshema Diagnostic Centre
+20497,779,30,3.033333333333333,Care Diagnostics
+20681,783,29,11.413793103448276,Anand Digital X-ray
+20905,804,30,5.4,Dr. Munir Bangi Hospital
+21231,810,30,18.8,Rathore Digital X-ray
+21365,812,29,5.793103448275862,Shree Bhanashankari Diagnostic Center
+21741,889,30,18.866666666666667,Aditya Diagnostics & Hospital
+21966,894,30,4.933333333333334,Sri Kalikadevi Digital X-ray
+22172,897,30,13.466666666666667,Bhanavi Hospital
+22396,907,11,3.8181818181818183,Krishna Digital X-ray Centre
+22555,917,19,2.263157894736842,BM Diagnostics
+22628,919,20,6.05,Orchid Medical Centre
+22769,920,21,3.619047619047619,Pulse Diagnostics - Maniktala
+22921,924,25,3.64,Central Diagnostic Center
+23302,936,24,8.416666666666666,Gourishankar Diagnostics & Research Centre Pvt. Ltd.
+23535,969,25,7.12,Diagnostic Naihati - CT U2
+23709,979,16,2.0625,Excel CT Scans
+23840,985,1,12.0,Dr. K. Shantha Breast Cancer Foundation
+24015,989,21,2.5238095238095237,Jaaidev Hospital
+24178,991,29,7.275862068965517,Green Heals Hospital
+24394,992,17,2.1176470588235294,Clinicare Diagnostic Centre
+24527,995,16,2.0625,Maanoda Laboratory
+24602,999,26,2.1153846153846154,Shree Diagnostic Center
+24789,1001,25,4.2,Medray Diagnostic Center
+24947,1003,22,2.090909090909091,Karthic Medical Centre - TN
+25094,1007,23,8.782608695652174,Diagnostic Naihati - U1
+25247,1010,28,3.857142857142857,Godavari CT Scan Centre
+25467,1012,30,8.8,Parkview Super Speciality Hospital
+26197,1027,4,2.25,The Pariseba X-ray
+26296,1031,28,8.964285714285714,Nahar Hospital
+26546,1037,26,4.423076923076923,Jupiter Lifeline Hospital
+26710,1038,30,8.3,NEDS HC (Division)
+27080,1042,30,15.866666666666667,Sree Renga Hospital
+27593,1066,18,2.888888888888889,Holy Cross Hospital - TN
+27883,1071,28,12.178571428571429,Terapanth Yuvak Parishad - Purvanchal
+28098,1076,29,9.172413793103448,East India X-ray Lab
+28300,1077,23,3.608695652173913,Shibani Digital X-ray Clinic
+28607,1085,18,2.111111111111111,Focus Diagnostic Center - HSR
+28859,1090,17,2.2941176470588234,Mhaskar Hospital
+28997,1094,13,2.3846153846153846,Sarvoday Hospital
+29199,1103,21,3.3333333333333335,Madhu Medi Care
+29395,1104,5,29.0,Rainbow Children's Medicare Pvt. Ltd.
+29455,1107,30,6.666666666666667,"Chanakya Digital X-ray, Sonari- Assam"
+29658,1109,30,8.266666666666667,Sanjeevani Khardah
+29883,1112,28,6.107142857142857,Shanti Swathalaya & Anusandhan Kendra Pvt. Ltd.
+30090,1120,23,2.608695652173913,Koppa CT Scan Center
+30271,1126,30,61.166666666666664,AMRI Hospitals - WB
+30495,1128,28,5.821428571428571,Brindavan Diagnostic Center
+30734,1135,30,9.533333333333333,Sanjeevini Multi Speciality Hospital - HYD
+31002,1142,19,2.789473684210526,Rajnandgaon Diagnostic Centre And Hospital
+31239,1146,21,2.238095238095238,Alurwar Diagnostic Center
+31385,1223,24,2.1666666666666665,Pinarc Health Imaging CT Scan Centre
+31513,1225,11,7.545454545454546,Aditya Super Speciality Hospital - U4
+31544,1372,26,3.1538461538461537,Ebisu Diagnostics - Dasarhalli
+31733,1374,12,2.0833333333333335,Srinivasa  X-ray & Laboratory
+31757,1391,30,15.566666666666666,Bana Diagnostics
+31992,1407,28,4.642857142857143,Cure & Care  Xray Centre
+32212,1410,30,5.633333333333334,Perfect Lab Hospital
+32509,1422,27,3.2222222222222223,BD Pathology&Digital X-ray Center
+32784,1429,29,4.172413793103448,The Corporate Hospital
+32902,1432,27,3.962962962962963,Medicare Diagnostic Centre - Ratlam
+33282,1451,11,8.454545454545455,Dharmlok Hospital Pvt. Ltd.
+33376,1470,30,49.0,Sonoscan Healthcare Pvt. Ltd. - Malda
+33600,1471,30,8.366666666666667,Mehar Hospital
+33764,1489,27,2.4444444444444446,Bhagwan Mahaveer Jain Hospital - Girinagar
+33950,1493,21,2.1904761904761907,New City Hospital - Udupi
+34128,1494,25,4.04,Kanpur Medical Center Pvt. Ltd.
+34331,1506,26,3.5,Krishna Hospital & Research Center
+34528,1507,26,4.6923076923076925,Lab At Home
+34730,1510,26,48.30769230769231,Amritsar Super Scan LLP - ARM DC
+34892,1514,26,3.269230769230769,Lohardaga Pathology
+35097,1520,15,2.1333333333333333,Sun X-rays
+35217,1522,30,16.3,Eskag Sanjeevani Pvt. Ltd. - Baghbazar
+35441,1528,28,4.75,Tirumala Care Hospital
+35761,1536,26,2.6153846153846154,Bethel Medical Centre
+35938,1539,16,2.8125,HTS Digital X-ray - U2
+36033,1542,25,3.44,Mahima Pathology & Digital X-ray
+36534,1560,21,2.9523809523809526,Naraina Medical College & Hospital
+36591,1564,21,4.476190476190476,Thangam Hospital & Thangam Cancer Center
+36912,1579,29,3.0,Sinduja Hospital
+37080,1594,29,15.03448275862069,Raj Hospitals - Ranchi
+37442,1611,1,4.0,Mayfair Diagnostic Centre
+37731,1625,4,6.25,Richmond Medicare
+37891,1635,23,2.652173913043478,Dr. Rachappa Buddinni Hospital
+38009,1637,28,4.678571428571429,MB Hospital
+38211,1641,22,3.272727272727273,Shahapur Shishu Hospital
+38458,1645,2,3.5,Erode Emergency Care Hospital
+38701,1656,26,2.8846153846153846,Simhans Hospital
+39142,1677,28,3.857142857142857,Ajara Hospital
+39342,1681,29,6.172413793103448,Vijaya Pathology & X-ray Centre
+39617,1705,30,2.8333333333333335,Shegaon CT Scan Centre
+39817,1706,17,2.5294117647058822,Vinayaka Healthcare & Diagnostic Centre
+39965,1718,12,14.333333333333334,Sonoscan Healthcare Pvt. Ltd. -  U2
+40012,1721,19,3.263157894736842,Fostr Healthcare and Diagnostics
+40171,1723,8,7.5,Vedanta Medical Research Foundation (Balco Medical Centre)
+40217,1737,26,4.423076923076923,Healthmate Diagnostics & Imaging
+40421,1743,28,4.464285714285714,Unity Hospital - Tripura
+40626,1747,10,4.0,Raj Scanning Centre
+40708,1752,19,3.0526315789473686,Meditek Diagnostic Pvt. Ltd. - U2
+41058,1781,30,5.9,Smart Diagnostic Centre
+41273,1782,30,8.8,Raja Rajeshwara Diagnostic Centre
+41556,1803,23,2.0434782608695654,Global Diagnostics
+41685,1824,23,4.608695652173913,Little Flower Hospital And Research Center
+41852,1833,30,5.366666666666666,Micropath Laboratory  - AMCH Gate
+42042,1846,29,6.379310344827586,Santosh Diagnostic & Scan Centre - U2
+42261,1848,22,4.545454545454546,SR Metro
+42588,1862,30,6.9,Kannur Medical College
+42873,1875,30,8.066666666666666,Taurus Hospital
+43096,1882,24,2.3333333333333335,Expert Imaging Centre - UP
+43175,1890,27,4.555555555555555,Narmada Apna Hospital
+43375,1892,29,3.4827586206896552,Goalpara Sonoscan Centre
+43573,1895,30,11.433333333333334,Swastika Diagnostics Pvt. Ltd.
+43798,1899,29,8.96551724137931,Final Diagnosis
+44121,1904,30,4.7,Dr. Sable Hospital
+44326,1906,29,3.896551724137931,Sitamrahi Janch Kendra
+44546,1916,26,2.8076923076923075,Prabhat Hospital
+44731,1918,22,2.3636363636363638,Vedaant Aarogya Niketan
+44897,1934,24,2.8333333333333335,Care Diagnostic - AS
+45182,1944,19,2.5789473684210527,Pandian Multispeciality Hospital
+45340,1951,29,6.551724137931035,Mission Hospital - Damoh
+45562,1954,26,5.3076923076923075,Patidar Diagnostic
+46307,1979,9,4.444444444444445,Shri Balaji 4th Generation MRI & Diagnostic Center
+46324,1983,11,6.454545454545454,Parivar Super Speciality Hospital
+46505,1997,24,2.7916666666666665,RNC Hospital
+46694,2005,23,32.78260869565217,Neuberg Ehrlich Laboratory private Limited
+47217,2030,30,6.033333333333333,DK Pathology
+47503,2052,30,5.166666666666667,Dr. Muthus Hospital - U2
+47724,2054,25,2.8,Imperial Hospital
+48027,2067,5,2.2,Prism Johnson Limited Medical Centre  (Cement Division)
+48115,2075,20,2.55,Aashirwad Digital X-ray Center
+48259,2097,28,6.678571428571429,Madhuraj Hospital Pvt. Ltd.
+48625,2114,25,11.36,Vasundhra Hospital
+49094,2145,8,2.125,Anjali Pathology
+49141,2157,28,3.25,CM Best Hospital
+49496,2172,25,5.08,Magnus Diagnostic Centre - Gottigere
+49688,2178,13,2.3076923076923075,Arogya Hospital - Delhi
+49732,2193,11,2.5454545454545454,Grand CT Scans
+49746,2199,26,3.230769230769231,Chauhan Pathalogy Lab & Digital X-ray Center
+50081,2211,23,2.5652173913043477,Evexia Diagnostic Center
+50269,2224,30,6.8,Umri Christian  Hospital
+50774,2252,26,2.4615384615384617,Noida MRI and Diagnostic Centre
+50973,2253,28,5.107142857142857,Aziz Diagnostics & Hospital
+51181,2260,29,3.586206896551724,Hospital Daksh
+51396,2265,28,9.0,Vardhman Diagnostics Pvt. Ltd.
+51615,2266,20,3.6,Ansaar General Hospital
+51785,2272,25,9.68,Singareni Area Hospital
+52053,2323,27,4.2592592592592595,HTS Healthcare
+52355,2346,26,3.5384615384615383,Vishwam Diagnostic
+52678,2360,26,3.230769230769231,Surbhi Hospital
+52872,2363,10,2.4,Focus Diagnostic - Belgaum
+52961,2366,7,2.142857142857143,Surakshaa Hospital
+53038,2368,16,2.125,Vinayak Diagnostics - Nirmal
+53151,2370,22,2.409090909090909,A to Z Multispeciality Hospital
+53412,2384,26,2.076923076923077,Photon Path Lab
+53596,2390,5,4.0,Ujjala Cygnus Bright Star Hospital
+53740,2398,21,2.9523809523809526,Aadhya Sri Imaging & Diagnostics
+53980,2404,8,3.375,Surya Diagnostics Centre
+54025,2406,29,3.6551724137931036,Patna Diagnostic Center
+54243,2414,29,5.0,Regal Hospital
+54655,2424,29,4.379310344827586,Omega Criticare Diagnostic Centre - U2
+54862,2439,30,15.9,Lab Care Diagnostic
+55198,2459,30,5.233333333333333,Agarwal Nursing Home
+55582,2469,27,4.2592592592592595,Raj CT Scan
+55828,2477,18,3.2777777777777777,Bioscan Diagnostics
+56245,2503,27,9.333333333333334,Acharya Vinoba Bhave Rural Hospital
+56390,2507,5,2.4,Sri Shiradi Sai Hospital
+56463,2515,26,6.153846153846154,Paalana Institute of Medical Sciences
+56633,2517,22,2.272727272727273,Talukder Diagnostic
+56779,2523,22,6.0,Diagnovision Diagnostic Centre
+56988,2526,25,2.8,Capital Diagnostic Center
+57176,2542,4,5.25,Shantived Institute Of Medical Science
+57200,2543,28,5.321428571428571,Ganga Maiyya Diagnostic And Research Centre - Balod
+57428,2554,30,13.133333333333333,Vardan Multispeciality Hospital
+57893,2571,4,3.75,21st Century Hospital
+57976,2577,25,2.6,Kamareddy MRI & Diagnostic Centre
+58075,2580,29,4.9655172413793105,Solapur Pride ICU & Multispeciality Hospital
+58365,2604,20,3.1,Saakshi Diagnostics - Lonavala
+58485,2606,3,7.333333333333333,Tatwadarsha Hospital
+58644,2623,8,4.0,Pacific Healthcare
+58696,2632,16,6.3125,The Mission Neighborhood - Advanced Diagnostics & Patient Care
+59001,2634,27,2.962962962962963,Bora's Nursing Home
+59158,2636,20,2.3,Shalinitai Meghe Hospital & Research Center
+59323,2638,22,2.5,Life Care Health Diagnostic - Karwar
+59578,2657,25,9.16,City Digital X-ray
+59812,2660,30,40.733333333333334,Kalra Hospital SRCNC Pvt. Ltd.
+60264,2668,27,6.703703703703703,Subhashini Lab & Imaging Centre
+60395,2675,24,8.791666666666666,GNRC Institute Of Medical Science
+60553,2678,22,3.227272727272727,Neuberg Hitech Laboratory Pvt Ltd - Kilpauk
+60776,2685,14,9.285714285714286,GNRC Community Hospitals Ltd.
+60851,2695,12,12.0,"Synergie Institute of Trade, Commerce and Industry"
+60977,2705,29,5.689655172413793,Kalra Hospital Dwarka
+61187,2706,16,6.5625,GNRC Hospital -Dispur
+61358,2714,28,2.9642857142857144,Venkata Rama Hospital
+61569,2726,24,2.9583333333333335,Kirpal Mission Hospital
+61769,2729,27,3.2962962962962963,Setha Multispeciality Hospital
+61957,2730,24,15.875,GNRC Hospital - Sixmile
+62072,2733,14,3.357142857142857,Sri Srinivasa  Multi Speciality  Hospital
+62453,2745,19,2.1052631578947367,Medalaya Radiology and Gynaecology
+62598,2751,25,2.6,Sureka Diagnostics
+62752,2753,19,3.1578947368421053,Neuberg Diagnostics Private Limited
+62912,2755,28,5.535714285714286,Hi-Tech  Diagnostic Centre
+63124,2763,22,3.409090909090909,PD Hinduja Sindhi Hospital
+63564,2767,21,38.57142857142857,Chittaranjan National Cancer Institute
+63743,2768,23,2.8260869565217392,Good Health Diagnostic & Clinic
+63932,2769,23,4.956521739130435,Mutum Clinic And Diagnostics
+64205,2782,20,5.05,Apex Diagno Solution
+64342,2796,28,5.892857142857143,Ganga CT Scan Centre & Advance MRI Scan Centre
+64556,2797,5,7.8,Aditya Diagnostics & Hospitals - U3
+64567,2802,27,5.0,Star Lab & X-ray
+64782,2805,25,4.44,Town Clinic Bihpuria
+65177,2822,24,9.791666666666666,Madonna Diagnostic & Research Centre
+65368,2825,27,7.111111111111111,Eskag Sanjeevani Pvt. Ltd. - Darjeeling
+65617,2831,18,5.277777777777778,RS Gaur Global Multispeciality Hospital Pvt.Ltd.
+66023,2839,29,13.0,Eskag Sanjeevani Multispecialty Hospital - Baranagar
+66226,2843,15,3.6666666666666665,Manav Seva Akshar Advance Imaging Centre
+66255,2844,22,2.0454545454545454,Prakhar High Tech CT Scan
+66381,2852,19,2.4210526315789473,Galava Digital X-ray Centre
+66592,2856,28,2.9642857142857144,Sattva Diagnostics
+66803,2867,30,6.533333333333333,Sarita Hospital
+67105,2873,27,3.7037037037037037,Shekhar Hospital
+67314,2874,24,2.7083333333333335,Sai Sangama Diagnostic And  Healthcare
+67864,2917,30,9.4,Panimalar Medical College Hospital & Research Institute
+67972,2918,29,3.4482758620689653,Unique Digital X-ray Center
+68183,2925,23,2.217391304347826,Curemax Diagnostics
+68315,2928,28,5.464285714285714,Maheera Diagnostic And medical Centre
+68533,2944,28,22.25,Hyderabad Institute Of Oncology Private Limited
+68742,2945,29,4.0344827586206895,Barak Diagnostic Centre
+68943,2950,30,5.333333333333333,Premier Hospital
+69089,2955,27,8.555555555555555,Spandan Diagnostic Centre
+69306,2956,22,7.136363636363637,Eskag Sanjeevini Pvt. Ltd.- Vindhyanagar
+70002,2979,23,2.1739130434782608,Pulkit Memorial Hospital
+70147,2980,22,2.409090909090909,Shanmuga Hospital Private Ltd.
+70372,2989,30,11.7,Bhadoriya Diagnostic Centre
+70709,2997,29,8.379310344827585,JBM Clinic
+70920,3000,30,4.866666666666666,Kalgachia Diagnostic Centre
+71308,3008,17,3.7058823529411766,TGH Onco Life Cancer Centre
+71454,3010,20,2.15,Shiggaon CT Scan Center
+71621,3015,21,5.0476190476190474,Megsan Diagnostics - KPHB
+71831,3019,30,7.7,Jivan Hospital - Kakching
+72056,3021,24,2.4583333333333335,Prime Super Speciality Hospital
+72219,3022,18,2.388888888888889,Gautam Nursing Home
+72348,3023,27,2.185185185185185,DRM Multispeciality Hospital - Mandya
+72743,3045,30,16.133333333333333,Glenfield Mallareddy Brain Heart Hospital
+72968,3046,29,3.7241379310344827,Guru Nanak Hospital & Research Centre Pvt. Ltd.
+73176,3047,22,7.045454545454546,Civil Hospital - Aizawl
+73350,3051,13,14.307692307692308,Vasavi Hospitals
+73567,3096,30,7.4,Debosthan Arugya Hospital & Research Center
+73764,3101,3,11.666666666666666,Jupiter Hospital
+73779,3106,26,2.6538461538461537,Sanjeevani Diagnostic Centre - Lonand
+73984,3112,11,3.727272727272727,Venkateshwara Scan Center
+74266,3122,9,4.333333333333333,Megsan Diagnostics - Rajahmundry
+74279,3127,29,4.0,Megsan Diagnostics - Kompally
+74475,3130,25,2.48,Nidan Vista Hi - Tech Imaging Centre (Aarogyam Diagnostic Centre)
+74608,3131,27,4.962962962962963,Eskag Sanjeevani Pvt. Ltd. (Super Specialty Hospital - Balurghat)
+74816,3133,15,2.466666666666667,BRS Hospital - Unit Of Neuberg
+74992,3142,26,3.3076923076923075,Wardha Scan & Diagnostic Center
+75138,3197,26,3.8076923076923075,Aastha Diagnostic Center
+75342,3199,14,2.9285714285714284,Narayana Super Speciality Hospital
+75428,3217,14,3.9285714285714284,CRH ENT MRI And Diagnostics
+75595,3244,19,2.0526315789473686,Eskag Sanjeevani Pvt. Ltd.- Jabalpur
+75717,3245,22,2.3636363636363638,Universal Diagnostic
+76107,3252,30,5.266666666666667,Shome Diagnostic Center
+76418,3256,17,5.0,NKG Diagnostic
+76596,3257,24,6.625,Ujala Cygnus Healthcare
+76783,3260,30,4.866666666666666,Thirumalai Mission Hospital Health centre
+77002,3262,30,11.366666666666667,Civil Hospital
+77299,3269,28,2.4285714285714284,Svastha Speciality Clinic & Diagnostic Centre
+77536,3274,8,2.5,Supra Hospital
+77618,3276,20,6.3,Meher's Diagnostics Point
+77921,3291,22,3.9545454545454546,Holy Cross Hospital - Thane
+78053,3293,28,20.25,San Camilo
+78243,3294,25,3.52,Referral Hospital and Research Center Centre
+78430,3310,23,3.1739130434782608,Raksha  Health Care
+78548,3311,30,4.766666666666667,Shankara  Diagnostic Centre
+78769,3316,4,21.25,Advanced Diagnostic  Centre Unit - 1
+78826,3320,24,4.708333333333333,Imaging Point Diagnostics - Ahmedabad
+78992,3321,17,3.9411764705882355,Asian Vascular Hospitals
+79148,3322,29,4.827586206896552,Insight Medical Diagnostic
+79297,3324,22,19.227272727272727,Coromandel Hospital A Unit of AMM Foundation
+79462,3328,27,4.111111111111111,Atulaya Health care Private Limited Punjab
+79866,3333,28,38.285714285714285,Chamarajanagar Institute of Medical sciences
+80089,3339,24,3.7083333333333335,The Meditrust Health Care
+80286,3341,12,10.0,SK Hospital
+80408,3342,30,102.86666666666666,AMRI Hospitals Ltd
+80633,3426,15,2.533333333333333,Dr. Das Multispeciality Hospital
+80855,3430,7,4.714285714285714,Chakravarthy Hospital
+81258,3434,26,2.8076923076923075,Delta Diagnostic Digital X-ray Centre
+81479,3438,18,2.0555555555555554,SNS Diagnostics Centre
+81634,3440,27,9.814814814814815,Center Point Hospital
+81990,3446,25,248.72,Rajagiri Hospital
+82129,3447,26,7.115384615384615,Bansal Hospital Sagar
+82315,3449,21,8.238095238095237,Sanjiwani Chikitsa Kendra HSR
+82474,3450,23,2.0434782608695654,Varanasi X-ray Clinic
+82891,3458,11,6.7272727272727275,Chaithanya Diagnostics & Imaging
+83093,3470,30,6.666666666666667,TX Hospital Banjara Hills 
+83288,3475,19,2.210526315789474,Greenwood Hospital Pvt. Ltd.
+83522,3483,21,2.0952380952380953,Skyline Medicos and Diagnostics Center 
+83674,3485,9,6.222222222222222,Kailash Omega Cancer Centre
+83779,3491,12,2.0833333333333335,Mahisagar Imaging Center
+83855,3498,29,11.862068965517242,Kunal Hospital
+84066,3500,30,16.9,Sri Aurobindo Institute of Medical Science
+84734,3529,11,3.4545454545454546,Meditrina Hospitals - Kollam
+84764,3530,30,14.333333333333334,Pulse Diagnostics Pvt. Ltd Ekbalpur
+84975,3531,30,26.333333333333332,"Pulse Diagnostic Pvt.Ltd, Jameslong"
+85237,3533,27,2.2222222222222223,Maitreya Hospital
+85469,3548,23,5.043478260869565,Lisie Hospital
+85693,3552,12,4.0,St.Isabel's Hospital
+85781,3553,30,16.3,Nireekshan Diagnostics
+86006,3570,9,2.7777777777777777,Medicover Multi Speciality Hospitals Pune 
+86148,3580,30,14.533333333333333,Hanumant Hospital
+86333,3581,21,3.2857142857142856,Cancer Centers of America - Ludhiana
+86516,3582,11,3.4545454545454546,Cancer Centers of America - Nashik
+86785,3586,15,3.8,Arogyadhama Multi Specialty Day Care & Diagnosis Services
+87054,3589,14,3.2857142857142856,Myo Healthcare
+87225,3592,28,3.107142857142857,Pramod Nidan Kendra
+87453,3595,6,2.8333333333333335,SreeNagar Diagnostics
+87476,3600,27,4.0,Lifespan Super Speciality Hospital
+87679,3601,8,2.125,Narayani Hospital A Unit of SCS PRO.CO.
+87721,3607,17,3.1176470588235294,Health Prime Laboratory
+88122,3613,6,3.5,Omega Hospitals Vizag
+88128,3614,22,3.227272727272727,Arekere Life Care Diagnostics & Multispeciality Clinic
+88384,3624,29,4.9655172413793105,Don Bosco Hospital
+88808,3632,21,2.9047619047619047,Atulaya Healthcare Private Limited - Karnal
+88928,3633,17,2.235294117647059,Putuonuo Hospital
+89362,3638,29,7.689655172413793,Truscan Diagnostic Centre Pvt. Ltd.
+89556,3643,30,30.933333333333334,Pulse diagnostics Pvt.Ltd Behala
+89740,3644,14,2.7142857142857144,EVR Advanced Diagnostics
+89900,3648,26,4.6923076923076925,Heal Point Diagnostics and Multispeciality Clinic
+90065,3653,23,5.043478260869565,The Bio Clinical Laboratory
+90222,3654,30,4.8,Orthocare Hospital Tezpur
+90533,3659,10,2.4,Akash Imaging & Diagnostics
+90641,3662,2,13.0,Omega Hospitals v - Banjara Hills
+90838,3668,9,3.6666666666666665,SD Suvidha Diagnostics and Pathology Pvt Ltd - Lucknow
+90877,3671,27,6.185185185185185,Eskag Sanjeevani Pvt.Ltd. Cossipore Road
+90978,3672,20,3.7,Rajanna CT Scan Center - Sircilla
+91070,3673,21,2.619047619047619,Tambo Salud
+91248,3684,21,4.190476190476191,Marian Medical Centre - Puliyannoor
+91368,3685,13,2.5384615384615383,"KLE Centenary Charitable Hospital, Yellur Road"
+91407,3686,28,6.035714285714286,Lairam Christian Medical Centre - Mizoram
+91546,3687,29,2.4827586206896552,Bhole Vighnaharta Multi Speciality Hospital Parola
+91763,3691,29,3.793103448275862,Thangavelu Hospital - Salem
+91890,3693,24,3.3333333333333335,Advance Diagnostics Imaging and Dental Clinic
+92002,3694,30,5.266666666666667,Advance Diagnostics Imaging and Dental Clinic - Uttam Nagar
+92117,3697,28,14.464285714285714,Highland Super Speciality Hospital
+92267,3702,30,75.03333333333333,Dr. Rela Institute & Medical Centre
+92325,3704,13,3.3846153846153846,Neuberg Supratech Inspire Diagnostics LLP - Raipur
+92348,3705,19,2.3157894736842106,Dorika Hospital - Assam
+92439,3706,25,5.6,Edge Imaging & Diagnostics - New Delhi
+92534,3707,29,11.724137931034482,SGD Diagnostics Center Pvt. Ltd. 
+92655,3710,30,44.666666666666664,Great Eastern Medical School And Hospital ( Aditya Eduational Scoiety)
+92768,3711,24,23.375,VCARE Diagnostics & Medical Centre (Falah E Aam Trust)
+92878,3713,14,3.357142857142857,Golden Peacock Solutions C/O Navjeevan Hospital And Rural Health Care Centre
+92982,3717,15,2.2,Sparsha Hospital and Neuro Center Hoskote
+93147,3721,30,8.466666666666667,Sri Visakha Diagnostics & scan Centre - Srikakulam
+93265,3722,24,3.0833333333333335,Agrawal Diagnostic Centre LLP
+93295,3723,29,3.9655172413793105,Cauvery Hospital - Hunsur
+93404,3724,23,3.4347826086956523,Pali Diagnostic Centre (Digital X-ray)
+93499,3725,30,7.5,Nano Hospitals - Uttarahalli
+93615,3727,30,18.733333333333334,Nano Hospitals - Arekere
+93874,3734,26,3.923076923076923,Superb MRI & CT scan Centre - Chandigarh
+93938,3736,9,12.666666666666666,Ratan Ultrasound Center
+93958,3739,25,4.96,Sircilla CT Scan & Diagnostic Centre
+94046,3740,25,10.96,Balaji Medical Centre Private Limited - Mangalore
+94135,3743,21,5.380952380952381,Hope Hospital- Mizoram
+94220,3746,23,2.869565217391304,Bharath Diagnostic Digital X-ray & OPG centre - Vijayapura
+94328,3748,17,16.11764705882353,GRP Healthcare Limited Liability Partnership - Maharashtra
+94449,3756,24,12.583333333333334,Balaji Medical Centre Private Limited - Mumbai
+94531,3762,30,26.433333333333334,Balaji Medical Centre Private Limited - Chennai
+94721,3767,30,8.366666666666667,Degaonkar CT Scan Center
+94813,3768,28,20.964285714285715,Balaji Medical Centre Private Limited - Ernakulam
+94901,3769,25,13.8,Balaji Medical Centre Private Limited - Visakhapatnam
+94979,3771,30,4.733333333333333,Shree Krupa Diagnostic Centre
+95071,3773,23,2.1739130434782608,Sharana Krupa Digital X-Ray Scanning Center
+95128,3775,11,2.090909090909091,Chest Allergy And Sugar Clinic
+95146,3776,27,3.037037037037037,Sen Healthcare
+95273,3783,28,7.107142857142857,Sri Amritsar Diagnostic Center - Punjab (Atulaya Healthcare)
+95348,3784,22,3.727272727272727,Guru Hospital
+95414,3788,22,11.181818181818182,Bharat Cancer Hospital And Research Institute
+95464,3789,5,9.8,NMB Diagnostics - Hooghly
+95475,3791,23,2.260869565217391,Nidan Prime Scan Centre - A Venture Of Sgla Imaging llp
+95547,3794,24,18.291666666666668,Balaji Medical Centre Private Limited - Thoothukudi
+95572,3795,13,7.384615384615385,Gunjan Diagnostic
+95592,3797,30,12.5,Santiniketan Medical College And Hospital
+95659,3798,20,2.2,Nishkam Imaging Solutions Pvt. Ltd
+95719,3804,15,2.8,Sono Lab  & Imaging Centre Udaipur
+95751,3805,18,2.1666666666666665,Shree X-Ray Clinic
+95780,3806,26,5.153846153846154,MD Diagnostics
+95861,3810,27,3.7037037037037037,Pratham MRI And CT Scan Centre
+95931,3813,22,2.0454545454545454,New Marvel Healthcare & Diagnostics
+95967,3814,27,2.5555555555555554,Mandya Multi Speciality Hospital Private Limited
+96021,3817,30,12.033333333333333,Sri Durga Diagnostic Center - Telangana
+96061,3819,1,3.0,Yolo Healthcare
+96095,3822,22,2.1363636363636362,Sanjivini Diagnostic Centre
+96175,3832,2,21.0,Apollo Medical Centre Marathahalli
+96194,3835,4,14.25,Invicta Diagnostic Pvt. Ltd.
+96203,3836,3,9.333333333333334,"Apollo Medical Centre, Kondapur"
+96212,3838,29,5.310344827586207,Aaxis Diagnostic Centre - Sangola
+96253,3841,25,2.92,Khalsa Diagnostic Center
+96283,3843,18,3.0555555555555554,Unique Sonography & Orthocare - Nashik
+96382,3852,13,2.230769230769231,Sparsh Multi-Speciality Hospital
+96396,3853,28,4.321428571428571,Arogya Hospital & Diagnostics
+96427,3854,28,182.78571428571428,Venkateshwar Hospital
+96457,3855,9,2.7777777777777777,Sambhav Upleta Diagnostic Center - Porbandar
+96466,3856,26,2.8461538461538463,Ravi Hospital
+96496,3860,3,7.333333333333333,Orbit Diagnostics
+96500,3863,9,2.6666666666666665,Prime Scans And Diagnostics
+96514,3866,11,8.181818181818182,Medall Health Care Pvt Ltd (Medall Group)
+96526,3867,18,30.444444444444443,Dr. Balwant Singh's Hospital Inc - South America
+96547,3871,11,3.272727272727273,Maheshwar Singh Hospital
+96562,3874,1,4.0,Bhandari Diagnostic Centre Pvt. Ltd.
+96563,3875,4,24.5,Ruban Memorial Hospital - Patna
+96569,3878,2,2.5,Nakshatra Hospital Morbi
+96571,3880,1,6.0,Mahtari Diagnostic

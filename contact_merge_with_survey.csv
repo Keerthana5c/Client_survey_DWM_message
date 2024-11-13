@@ -1,0 +1,11 @@
+,created_id,contact_fk,client_fk,trigger,created_at,churn_type,active_days,avg_case_load,client_active_type,unique_id,Client_Name,phone_number,email,Last_30_XRAY_Count,Last_30_Within_TAT_XRAY,Last_30_XRAY_Rework,Last_30_CT_Count,Last_30_Within_TAT_CT,Last_30_CT_Rework,Last_30_MRI_Count,Last_30_Within_TAT_MRI,Last_30_MRI_Rework,Last_30_NM_Count,Last_30_Within_TAT_NM,Last_30_NM_Rework
+0,1011,0,2459,False,2024-11-13 12:16:23.100947,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,5C2157,Agarwal Nursing Home,,anhbasna@gmail.com,0,0,0,151,2,0,0,0,0,0,0,0
+1,1012,13906,2459,False,2024-11-13 12:16:23.100947,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,5C2157,Agarwal Nursing Home,9131344252,,0,0,0,151,2,0,0,0,0,0,0,0
+2,1013,15570,2459,False,2024-11-13 12:16:23.100947,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,5C2157,Agarwal Nursing Home,7000866596,,0,0,0,151,2,0,0,0,0,0,0,0
+3,1014,10824,2459,False,2024-11-13 12:16:23.100947,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,5C2157,Agarwal Nursing Home,9893153699,,0,0,0,151,2,0,0,0,0,0,0,0
+4,1015,15975,2459,False,2024-11-13 12:16:23.100947,Critical DAU30 Cat-1 Churn,30,5.233333333333333,DAU,5C2157,Agarwal Nursing Home,7052751557,akhilsinghsrk7@gmail.com,0,0,0,151,2,0,0,0,0,0,0,0
+5,1016,15391,3707,False,2024-11-13 12:16:23.100947,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7827296993,henanaz@rediffmail.com,55,0,1,141,0,1,141,0,2,0,0,0
+6,1017,14670,3707,False,2024-11-13 12:16:23.100947,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7983532214,sgdctmri@gmail.com,55,0,1,141,0,1,141,0,2,0,0,0
+7,1018,15390,3707,False,2024-11-13 12:16:23.100947,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,5C3325,SGD Diagnostics Center Pvt. Ltd. ,9430417536,info@sgddiagnostic.com,55,0,1,141,0,1,141,0,2,0,0,0
+8,1019,15486,3707,False,2024-11-13 12:16:23.100947,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,5C3325,SGD Diagnostics Center Pvt. Ltd. ,9354559609,,55,0,1,141,0,1,141,0,2,0,0,0
+9,1020,15389,3707,False,2024-11-13 12:16:23.100947,Critical DAU>28 Cat-2 Churn,29,11.724137931034482,DAU,5C3325,SGD Diagnostics Center Pvt. Ltd. ,7983532214,goluthakur7665@gmail.com,55,0,1,141,0,1,141,0,2,0,0,0

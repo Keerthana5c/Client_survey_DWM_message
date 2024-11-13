@@ -1,0 +1,90 @@
+,client_fk,active_days,avg_case_load,client_name
+0,1,30,7.433333333333334,Mediscan Diagnostic Centre - Gondia
+844,21,30,8.433333333333334,Gayatri CT Scan Centre
+1069,25,30,3.3666666666666667,Siddhartha Hospital
+1329,29,30,15.2,Archana Trauma & Orthopaedics Hospital & Research Centre
+1750,32,30,7.866666666666666,Vipraa Diagnostics
+1974,39,30,17.2,HM Hospital - Dibrugarh
+2690,74,30,10.533333333333333,Santosh Diagnostic & Scan Centre - RT Nagar
+3008,100,30,9.233333333333333,Sakshi Diagnostics
+3755,167,30,12.866666666666667,Image Diagnostics
+4444,218,30,10.566666666666666,Jogomaya Polyclinic
+4673,242,30,12.4,Escent Diagnostics Pvt. Ltd.
+5066,250,30,4.966666666666667,RDJM Medical College And Hospital
+7205,340,30,7.9,South City Hospital - Silchar
+7642,349,30,19.933333333333334,Santosh Hospital
+8751,363,30,21.666666666666668,Calcutta Heart Research Centre - Howrah
+10223,391,30,19.333333333333332,Kalimpong Hospital
+10447,393,30,10.2,Dr. Muthus Super Speciality Hospital
+10995,406,30,8.633333333333333,Janapriya CT MRI Scan Centre
+12541,468,30,18.133333333333333,Anupam Diagnostics Centre
+14001,530,30,5.966666666666667,Chennai National Hospital
+15038,566,30,3.4,Bharath Hospital
+17074,656,30,14.6,Eskag sanjeevani ESI (Joka)
+17506,691,30,28.666666666666668,Aditi Hospital
+18304,728,30,5.666666666666667,Shakuntala Memorial Hospital & Research Center
+20497,779,30,3.033333333333333,Care Diagnostics
+20905,804,30,5.4,Dr. Munir Bangi Hospital
+21231,810,30,18.8,Rathore Digital X-ray
+21741,889,30,18.866666666666667,Aditya Diagnostics & Hospital
+21966,894,30,4.933333333333334,Sri Kalikadevi Digital X-ray
+22172,897,30,13.466666666666667,Bhanavi Hospital
+25467,1012,30,8.8,Parkview Super Speciality Hospital
+26710,1038,30,8.3,NEDS HC (Division)
+27080,1042,30,15.866666666666667,Sree Renga Hospital
+29455,1107,30,6.666666666666667,"Chanakya Digital X-ray, Sonari- Assam"
+29658,1109,30,8.266666666666667,Sanjeevani Khardah
+30271,1126,30,61.166666666666664,AMRI Hospitals - WB
+30734,1135,30,9.533333333333333,Sanjeevini Multi Speciality Hospital - HYD
+31757,1391,30,15.566666666666666,Bana Diagnostics
+32212,1410,30,5.633333333333334,Perfect Lab Hospital
+33376,1470,30,49.0,Sonoscan Healthcare Pvt. Ltd. - Malda
+33600,1471,30,8.366666666666667,Mehar Hospital
+35217,1522,30,16.3,Eskag Sanjeevani Pvt. Ltd. - Baghbazar
+39617,1705,30,2.8333333333333335,Shegaon CT Scan Centre
+41058,1781,30,5.9,Smart Diagnostic Centre
+41273,1782,30,8.8,Raja Rajeshwara Diagnostic Centre
+41852,1833,30,5.366666666666666,Micropath Laboratory  - AMCH Gate
+42588,1862,30,6.9,Kannur Medical College
+42873,1875,30,8.066666666666666,Taurus Hospital
+43573,1895,30,11.433333333333334,Swastika Diagnostics Pvt. Ltd.
+44121,1904,30,4.7,Dr. Sable Hospital
+47217,2030,30,6.033333333333333,DK Pathology
+47503,2052,30,5.166666666666667,Dr. Muthus Hospital - U2
+50269,2224,30,6.8,Umri Christian  Hospital
+54862,2439,30,15.9,Lab Care Diagnostic
+55198,2459,30,5.233333333333333,Agarwal Nursing Home
+57428,2554,30,13.133333333333333,Vardan Multispeciality Hospital
+59812,2660,30,40.733333333333334,Kalra Hospital SRCNC Pvt. Ltd.
+66803,2867,30,6.533333333333333,Sarita Hospital
+67864,2917,30,9.4,Panimalar Medical College Hospital & Research Institute
+68943,2950,30,5.333333333333333,Premier Hospital
+70372,2989,30,11.7,Bhadoriya Diagnostic Centre
+70920,3000,30,4.866666666666666,Kalgachia Diagnostic Centre
+71831,3019,30,7.7,Jivan Hospital - Kakching
+72743,3045,30,16.133333333333333,Glenfield Mallareddy Brain Heart Hospital
+73567,3096,30,7.4,Debosthan Arugya Hospital & Research Center
+76107,3252,30,5.266666666666667,Shome Diagnostic Center
+76783,3260,30,4.866666666666666,Thirumalai Mission Hospital Health centre
+77002,3262,30,11.366666666666667,Civil Hospital
+78548,3311,30,4.766666666666667,Shankara  Diagnostic Centre
+80408,3342,30,102.86666666666666,AMRI Hospitals Ltd
+83093,3470,30,6.666666666666667,TX Hospital Banjara Hills 
+84066,3500,30,16.9,Sri Aurobindo Institute of Medical Science
+84764,3530,30,14.333333333333334,Pulse Diagnostics Pvt. Ltd Ekbalpur
+84975,3531,30,26.333333333333332,"Pulse Diagnostic Pvt.Ltd, Jameslong"
+85781,3553,30,16.3,Nireekshan Diagnostics
+86148,3580,30,14.533333333333333,Hanumant Hospital
+89556,3643,30,30.933333333333334,Pulse diagnostics Pvt.Ltd Behala
+90222,3654,30,4.8,Orthocare Hospital Tezpur
+92002,3694,30,5.266666666666667,Advance Diagnostics Imaging and Dental Clinic - Uttam Nagar
+92267,3702,30,75.03333333333333,Dr. Rela Institute & Medical Centre
+92655,3710,30,44.666666666666664,Great Eastern Medical School And Hospital ( Aditya Eduational Scoiety)
+93147,3721,30,8.466666666666667,Sri Visakha Diagnostics & scan Centre - Srikakulam
+93499,3725,30,7.5,Nano Hospitals - Uttarahalli
+93615,3727,30,18.733333333333334,Nano Hospitals - Arekere
+94531,3762,30,26.433333333333334,Balaji Medical Centre Private Limited - Chennai
+94721,3767,30,8.366666666666667,Degaonkar CT Scan Center
+94979,3771,30,4.733333333333333,Shree Krupa Diagnostic Centre
+95592,3797,30,12.5,Santiniketan Medical College And Hospital
+96021,3817,30,12.033333333333333,Sri Durga Diagnostic Center - Telangana

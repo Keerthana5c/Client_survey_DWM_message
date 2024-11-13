@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5CNetwork Delivery Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #005B96;
+            color: white;
+        }
+        .success {
+            color: green;
+        }
+        .danger {
+            color: red;
+        }
+        .button {
+            background-color: #005B96;
+            color: white !important;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <!-- <h2>{{ subject }}</h2> -->
+    
+    <p>Hello {{ Client_Name }} Team,</p>
+    <p>I hope this message finds you well! We wanted to quickly touch base regarding your recent case activity on 5CNetwork. Here’s an overview of case submissions and delivery performance from the past 30 days:</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Modality</th>
+                <th>Avg TAT</th>
+                <th>Delivered within TAT</th>
+                <th>Rework</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if Modality_Data.XRAY %}
+            <tr>
+                <td>🩻 XRAY: {{ Modality_Data.XRAY.total_XRAY }} cases</td>
+                <td>{{ Modality_Data.XRAY.avg_tat }}</td>
+                <td>{{ Modality_Data.XRAY.delivered_within_tat }} cases ({{ Modality_Data.XRAY.percentage | round(2) }}%)</td>
+                <td>{{ Modality_Data.XRAY.rework }} cases</td>
+            </tr>
+            {% endif %}
+            
+            {% if Modality_Data.CT %}
+            <tr>
+                <td>🖥️ CT: {{ Modality_Data.CT.total_CT }} cases</td>
+                <td>{{ Modality_Data.CT.avg_tat }}</td>
+                <td>{{ Modality_Data.CT.delivered_within_tat }} cases ({{ Modality_Data.CT.percentage | round(2) }}%)</td>
+                <td>{{ Modality_Data.CT.rework }} cases</td>
+            </tr>
+            {% endif %}
+            
+            {% if Modality_Data.MRI %}
+            <tr>
+                <td>🖥️ MRI: {{ Modality_Data.MRI.total_MRI }} cases</td>
+                <td>{{ Modality_Data.MRI.avg_tat }}</td>
+                <td>{{ Modality_Data.MRI.delivered_within_tat }} cases ({{ Modality_Data.MRI.percentage | round(2) }}%)</td>
+                <td>{{ Modality_Data.MRI.rework }} cases</td>
+            </tr>
+            {% endif %}
+            
+            {% if Modality_Data.NM %}
+            <tr>
+                <td>🖥️ NM: {{ Modality_Data.NM.total_NM }} cases</td>
+                <td>{{ Modality_Data.NM.avg_tat }}</td>
+                <td>{{ Modality_Data.NM.delivered_within_tat }} cases ({{ Modality_Data.NM.percentage | round(2) }}%)</td>
+                <td>{{ Modality_Data.NM.rework }} cases</td>
+            </tr>
+            {% endif %}
+        </tbody>
+    </table>
+    
+    <p>It seems there’s been a pause in case activations recently. We’d love to hear if there’s anything specific we can do to support your needs or improve our service.</p>
+
+    <a href="{{ feedback_link }}" class="button">Provide Feedback</a>
+
+    <p>If you have any questions or feedback, please don’t hesitate to reach out. We’re here to ensure smooth and timely reporting for your team!</p>
+
+    <p>Thank you for trusting 5CNetwork!</p>
+</body>
+</html>
+
+
+<!-- <table>
+    <thead>
+        <tr>
+            <th>Modality</th>
+            <th>Avg TAT</th>
+            {% if Modality_Data.XRAY and Modality_Data.XRAY.percentage >= 50 or
+                  Modality_Data.CT and Modality_Data.CT.percentage >= 50 or
+                  Modality_Data.MRI and Modality_Data.MRI.percentage >= 50 or
+                  Modality_Data.NM and Modality_Data.NM.percentage >= 50 %}
+                <th>Delivered within TAT</th>
+            {% endif %}
+            {% if Modality_Data.XRAY and Modality_Data.XRAY.rework > 0 or
+                  Modality_Data.CT and Modality_Data.CT.rework > 0 or
+                  Modality_Data.MRI and Modality_Data.MRI.rework > 0 or
+                  Modality_Data.NM and Modality_Data.NM.rework > 0 %}
+                <th>Rework</th>
+            {% endif %}
+        </tr>
+    </thead>
+    <tbody>
+        {% if Modality_Data.XRAY %}
+        <tr>
+            <td>🩻 XRAY: {{ Modality_Data.XRAY.total_XRAY }} cases</td>
+            <td>{{ Modality_Data.XRAY.avg_tat }}</td>
+            {% if Modality_Data.XRAY.percentage >= 50 %}
+                <td>{{ Modality_Data.XRAY.delivered_within_tat }} cases ({{ Modality_Data.XRAY.percentage | round(2) }}%)</td>
+            {% endif %}
+            {% if Modality_Data.XRAY.rework > 0 %}
+                <td>{{ Modality_Data.XRAY.rework }} cases</td>
+            {% endif %}
+        </tr>
+        {% endif %}
+        
+        {% if Modality_Data.CT %}
+        <tr>
+            <td>🖥️ CT: {{ Modality_Data.CT.total_CT }} cases</td>
+            <td>{{ Modality_Data.CT.avg_tat }}</td>
+            {% if Modality_Data.CT.percentage >= 50 %}
+                <td>{{ Modality_Data.CT.delivered_within_tat }} cases ({{ Modality_Data.CT.percentage | round(2) }}%)</td>
+            {% endif %}
+            {% if Modality_Data.CT.rework > 0 %}
+                <td>{{ Modality_Data.CT.rework }} cases</td>
+            {% endif %}
+        </tr>
+        {% endif %}
+        
+        {% if Modality_Data.MRI %}
+        <tr>
+            <td>🖥️ MRI: {{ Modality_Data.MRI.total_MRI }} cases</td>
+            <td>{{ Modality_Data.MRI.avg_tat }}</td>
+            {% if Modality_Data.MRI.percentage >= 50 %}
+                <td>{{ Modality_Data.MRI.delivered_within_tat }} cases ({{ Modality_Data.MRI.percentage | round(2) }}%)</td>
+            {% endif %}
+            {% if Modality_Data.MRI.rework > 0 %}
+                <td>{{ Modality_Data.MRI.rework }} cases</td>
+            {% endif %}
+        </tr>
+        {% endif %}
+        
+        {% if Modality_Data.NM %}
+        <tr>
+            <td>🖥️ NM: {{ Modality_Data.NM.total_NM }} cases</td>
+            <td>{{ Modality_Data.NM.avg_tat }}</td>
+            {% if Modality_Data.NM.percentage >= 50 %}
+                <td>{{ Modality_Data.NM.delivered_within_tat }} cases ({{ Modality_Data.NM.percentage | round(2) }}%)</td>
+            {% endif %}
+            {% if Modality_Data.NM.rework > 0 %}
+                <td>{{ Modality_Data.NM.rework }} cases</td>
+            {% endif %}
+        </tr>
+        {% endif %}
+    </tbody>
+</table>
+ -->
